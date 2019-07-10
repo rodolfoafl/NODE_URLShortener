@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+	"longUrl": "https://www.amazon.com.br/SMARTPHONE-SAMSUNG-GALAXY-PRETO-SM-A105MZKKZTO/dp/B07QZTWYQ3/ref=gbph_img_m-4_470a_aa39c405?smid=A1B9VBOA5Q0JOG&pf_rd_p=2845596e-daa1-46fe-abf6-737e8dc8470a&pf_rd_s=merchandised-search-4&pf_rd_t=101&pf_rd_i=16243803011&pf_rd_m=A1ZZFT5FULY4LN&pf_rd_r=M3BPH8M3HXMVKMAPCZQT"
+}
